@@ -1,6 +1,3 @@
-2. HPA监控脚本 (monitor-hpa.sh)
-
-
 #!/bin/bash
 set -euo pipefail
 
