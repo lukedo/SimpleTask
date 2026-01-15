@@ -1,4 +1,4 @@
-# 1. Kubernetes集群初始化脚本 (cluster-init.sh)
+# Kubernetes集群初始化脚本
 
 #!/bin/bash
 set -euo pipefail
